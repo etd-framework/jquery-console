@@ -1,0 +1,16 @@
+{
+  "name": "etdsolutions/jquery-console",
+  "description": "Shim repository for jQuery console",
+  "homepage": "https://github.com/chrisdone/jquery-console",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chris Done",
+      "email": "chrisdone@gmail.com",
+      "homepage": "http://chrisdone.com/"
+    }
+  ],
+  "require": {
+    "etdsolutions/jquery": "~1.0|~2.0|~3.0"
+  }
+}
